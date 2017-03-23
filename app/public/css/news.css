@@ -1,0 +1,27 @@
+h1{
+    margin:0 auto;
+    width:1000px;
+}
+.view{
+    margin: 0 auto;
+}
+.news-view{
+    width:1000px;
+}
+.item{
+    width:200px;
+    float:left;
+    text-align: center;
+}
+.item p{
+    height:40px;
+    margin:0;
+}
+.item a{
+    text-decoration: none;
+    font-size:14px;
+}
+.item img{
+    width:100px;
+    height:150px;
+}
